@@ -60,5 +60,11 @@ src="https://img.shields.io/github/followers/lapnguyen331?logo=github&style=for-
 ### ⌨️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP   2 hrs 52 mins   ██████████████████░░░░░░░   72.04 %
+CSS   1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   27.96 %
+```
+
 <!--END_SECTION:waka-->
 
