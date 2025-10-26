@@ -62,11 +62,11 @@ src="https://img.shields.io/github/followers/lapnguyen331?logo=github&style=for-
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               17 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.08 %
-CSS               8 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-JavaScript        4 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Other             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+PHP               14 hrs 7 mins   █████████████▒░░░░░░░░░░░   53.58 %
+CSS               7 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
+JavaScript        4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Other             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
